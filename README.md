@@ -1,7 +1,7 @@
 # StegCom
 
 StegCom is an easy way to broadcast messages by publishing images. Steganography is used to hide the message in an image. To enshure only you, your devices and your friends can read the message, AES is used to encrypt it. Since symmectric cryptographie does not provide any information about the author (everybody who can read your messages is also able to generate them), StegCom adds an RSA signature.
-The idea for StegCom came when reading about a botnet that used twitter memes as a command and control server.
+The idea for StegCom came when reading about a [botnet that used twitter memes as a command and control server](https://techcrunch.com/2018/12/17/malware-commands-code-twitter-hidden-memes/?guccounter=1).
 However, StegCom can also be used for other purposes. Due to the hidden communication channel, a use for bypassing censorship measures would be conceivable.
 A long-term goal is a messenger that uses this hidden channel.
 
