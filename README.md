@@ -40,9 +40,11 @@ This command results in the following execution steps:
 
 #### Get messages from an image
 
+ToDo
+
 #### Get messages from an url
 
-### Technical details
+ToDo
 
 ### Credits
 
