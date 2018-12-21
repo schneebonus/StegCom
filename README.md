@@ -29,5 +29,5 @@ StegCom supports several operations. You can generate images containing your mes
 ### Credits
 
 - [Stegano](https://pypi.org/project/Stegano/) for the steganography
-- 
+- [simple-crypt](https://pypi.org/project/simple-crypt/) for the easy to use AES wrapper
 - [pycrypto](https://pypi.org/project/pycrypto/) for the RSA signature
