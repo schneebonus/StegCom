@@ -20,11 +20,19 @@ StegCom supports several operations. You can generate images containing your mes
 
 #### Hide messages in images
 
+The first step while using StegCom is to generate an image with a hidden message.
+This can be done by calling steg_png.py:
+
+```bash
+python3 steg_png.py "your message"
+```
 ![Generating images](https://github.com/schneebonus/StegCom/raw/master/signal-2018-12-20-154357.png)
 
 #### Get messages from an image
 
 #### Get messages from an url
+
+### Technical details
 
 ### Credits
 
