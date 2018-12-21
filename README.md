@@ -35,7 +35,7 @@ This command results in the following execution steps:
 1. Encryption of the payload by using AES and the secret from settings.py
 1. Base64 encoding of the encrypted payload
 1. Insertion of the payload into the carrier image
-1. Image is put to out/
+1. Generated image is put to out/
 1. Testing the result: Get the message and verify the signature
 
 #### Get messages from an image
