@@ -25,3 +25,9 @@ StegCom supports several operations. You can generate images containing your mes
 #### Get messages from an image
 
 #### Get messages from an url
+
+### Credits
+
+- [Stegano](https://pypi.org/project/Stegano/) for the steganography
+- 
+- [pycrypto](https://pypi.org/project/pycrypto/) for the RSA signature
