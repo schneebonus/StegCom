@@ -28,6 +28,7 @@ StegCom supports several operations. You can generate images containing your mes
 
 ### Credits
 
+- [Some unknown malware developer](https://techcrunch.com/2018/12/17/malware-commands-code-twitter-hidden-memes/?guccounter=1) for the idea
 - [Stegano](https://pypi.org/project/Stegano/) for the steganography
 - [simple-crypt](https://pypi.org/project/simple-crypt/) for the easy to use AES wrapper
 - [pycrypto](https://pypi.org/project/pycrypto/) for the RSA signature
