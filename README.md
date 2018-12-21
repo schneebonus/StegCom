@@ -7,8 +7,8 @@ A long-term goal is a messenger that uses this hidden channel.
 
 ### Install
 
-- Clone this repository: ToDo
-- Install requrenments: ToDo
+- Clone this repository: git clone https://github.com/schneebonus/StegCom.git
+- Install requrenments: cd StegCom; pip3 install -r requirements --user
 - Edit settings.py and set your personal secret (used for the aes encryption). Every device and person of your communication needs to know this secret.
 - Put your pem certificates to keyfiles/me/ (expected: private_key.pem and my_pubkey.pem)
 - Put trusted public keys from your other devices / other persons to keyfiles/others/ (example: john_doe.pem)
