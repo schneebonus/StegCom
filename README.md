@@ -36,7 +36,7 @@ This command results in the following execution steps:
 1. Base64 encoding of the encrypted payload
 1. Insertion of the payload into the carrier image
 1. Image is put to out/
-1. Selftest: Get the message and verify the signature
+1. Testing the result: Get the message and verify the signature
 
 #### Get messages from an image
 
