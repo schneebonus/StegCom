@@ -29,7 +29,7 @@ python3 steg_png.py "your message"
 ![Generating images](https://github.com/schneebonus/StegCom/raw/master/signal-2018-12-20-154357.png)
 
 This command results in the following execution steps:
-1. Creation of a RSA signature ( privatekey: keyfiles/me/private_key.pem ) four your message
+1. Creation of a RSA signature ( privatekey: keyfiles/me/private_key.pem ) for your message
 1. A timestamp, the message and the signature are concatenated to a payload
 1. An image from in/ is randomly choosen to serve as the carrier image
 1. Encryption of the payload by using AES and the secret from settings.py
