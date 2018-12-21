@@ -20,6 +20,8 @@ StegCom supports several operations. You can generate images containing your mes
 
 #### Hide messages in images
 
+![Generating images](https://github.com/schneebonus/StegCom/raw/master/signal-2018-12-20-154357.png)
+
 #### Get messages from an image
 
 #### Get messages from an url
